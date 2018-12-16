@@ -5,5 +5,5 @@ O surgimento de diversas técnicas de inteligência artificial aplicadas ao prob
 
 
 ## Literatura e sugestões
-Diversos livros, rotinas de exemplo, dados e vários outros conteúdos que abordam o tema de reconhecimento facial podem ser acessados na internet. Abaixo faço uma lista de algumas que foram úteis para criar os notebooks desse projeto e melhor formular o entendimento desse problema.
+Diversos livros, rotinas de exemplo, dados e vários outros conteúdos que abordam o tema de reconhecimento facial podem ser acessados na internet. Abaixo faço uma lista de algumas que foram úteis para criar os notebooks desse projeto e melhor formular o entendimento desse problema. <br>
 https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes/ 
